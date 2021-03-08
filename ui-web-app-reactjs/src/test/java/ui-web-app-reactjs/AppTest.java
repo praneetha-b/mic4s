@@ -1,4 +1,4 @@
-package ui-web-app-reactjs;
+
 
 import static org.junit.Assert.assertTrue;
 
