@@ -1,9 +1,4 @@
-
-
-/**
- * Hello world!
- *
- */
+package ui-web-app-reactjs ;
 public class App 
 {
     public static void main( String[] args )
