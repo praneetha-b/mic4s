@@ -1,4 +1,4 @@
-package ui-web-app-reactjs ;
+package ui-web-app-reactjs;
 public class App 
 {
     public static void main( String[] args )
